@@ -1,0 +1,6 @@
+[book]
+authors = ["el_maximo"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Lynx Documentation"
